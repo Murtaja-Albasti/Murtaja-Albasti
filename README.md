@@ -4,6 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE122F&background=000000&center=true&random=false&width=963&height=100&lines=who+I+am+%3F;+Reverse+Engineer.;Artificial+intelligence+Developer.;Full-stack+Web+Developer.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtaja-albasti&label=Profile%20views&color=0e75b6&style=flat" alt="murtaja-albasti" /> </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Murtaja-Albasti&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Murtaja-Albasti&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Murtaja-Albasti&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Murtaja-Albasti&theme=bear&utcOffset=8)
 
 
 - 🌱 I’m currently learning **Reverse Engineering, Game Hacking, And Artificial Intelligence**
