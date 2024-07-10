@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Murtaja Albasti</h1>
 <h3 align="center">A passionate programmer from Saudi Arabia</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE122F&background=000000&center=true&random=false&width=853&height=100&lines=who+I+am+%3F;+Reverse+Engineer.;Artificial+intelligence+Developer.;Full-stack+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE122F&background=000000&center=true&random=false&width=963&height=100&lines=who+I+am+%3F;+Reverse+Engineer.;Artificial+intelligence+Developer.;Full-stack+Web+Developer.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtaja-albasti&label=Profile%20views&color=0e75b6&style=flat" alt="murtaja-albasti" /> </p>
 
