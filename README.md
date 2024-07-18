@@ -36,3 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murtaja-albasti&show_icons=true&locale=en" alt="murtaja-albasti" /></p>
 
+
+![Snake animation](https://raw.githubusercontent.com/{Murtaja-Albasti}/{Murtaja-Albasti}/output/github-contribution-grid-snake-dark.svg)
